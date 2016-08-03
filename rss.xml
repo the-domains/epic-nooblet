@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Epic Nooblet]]></title>
+        <description><![CDATA[Epic Nooblet]]></description>
+        <link>https://thegrid.ai/epic-nooblet/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:49:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/epic-nooblet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Light painting with pixelstick]]></title>
+            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/78163959</link>
+            <guid isPermaLink="false">c4091e8a-be1b-4fe4-82ee-bf79ce2ac50e</guid>
+            <pubDate>Wed, 03 Aug 2016 13:49:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Light painting with pixelstick]]></title>
+            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/78163959</link>
+            <guid isPermaLink="false">7bc7273a-a6ff-4de0-bdf9-0d26ca9ef7ad</guid>
+            <pubDate>Wed, 03 Aug 2016 13:49:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
