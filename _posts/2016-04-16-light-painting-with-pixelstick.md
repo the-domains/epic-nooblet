@@ -10,7 +10,7 @@ author:
   - name: Bitbanger
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
-dateModified: '2016-08-03T13:49:07.877Z'
+dateModified: '2016-08-03T13:49:07.884Z'
 title: Light painting with pixelstick
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
