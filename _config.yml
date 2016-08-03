@@ -1,15 +1,15 @@
-typography_spectrum: 0.7791739858221263
+typography_spectrum: 0.5220952092204243
 color:
-  brandStrength: 0.36303925327956676
-  lightness: 0.7734495031181723
-  saturation: 0.17799741472117603
-  rhythmicContrast: 0.44053926412016153
+  brandStrength: 0.6149683492258191
+  lightness: 0.8673350524622947
+  saturation: 0.03585024154745042
+  rhythmicContrast: 0.48602852784097195
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 layout_spectrum: 0.4232201499398798
 author:
   name: Epic Nooblet
