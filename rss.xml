@@ -4,7 +4,7 @@
         <description><![CDATA[Nooblet's Random Thoughts]]></description>
         <link>https://thegrid.ai/epic-nooblet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 13:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 13:49:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/epic-nooblet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Giving up WordPress...maybe?]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa959c04-0a9b-40c4-9bc8-20de365f58fa.jpg</link>
             <guid isPermaLink="false">0c76fd85-514b-4d70-b5cb-32964b0a7a14</guid>
             <pubDate>Thu, 04 Aug 2016 13:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Light painting with pixelstick]]></title>
-            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/78163959</link>
-            <guid isPermaLink="false">7bc7273a-a6ff-4de0-bdf9-0d26ca9ef7ad</guid>
-            <pubDate>Wed, 03 Aug 2016 13:49:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
