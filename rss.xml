@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Epic Nooblet]]></title>
-        <description><![CDATA[Epic Nooblet]]></description>
+        <title><![CDATA[Nooblet's Random Thoughts]]></title>
+        <description><![CDATA[Nooblet's Random Thoughts]]></description>
         <link>https://thegrid.ai/epic-nooblet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 13:48:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/epic-nooblet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giving up WordPress...maybe?]]></title>
+            <description><![CDATA[<article><h1>Giving up WordPress...maybe?</h1><p>So I’m still debating whether to fully migrate my site to this experimental Grid site. Originally I didn’t want to because this still had some kinks to be worked out. However, recently my WordPress site is being excessively slow, and no matter what I do I’m unable to post to it from my phone app, which is what I wanted. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa959c04-0a9b-40c4-9bc8-20de365f58fa.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa959c04-0a9b-40c4-9bc8-20de365f58fa.jpg</link>
+            <guid isPermaLink="false">0c76fd85-514b-4d70-b5cb-32964b0a7a14</guid>
+            <pubDate>Thu, 04 Aug 2016 13:48:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Light painting with pixelstick]]></title>
             <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
