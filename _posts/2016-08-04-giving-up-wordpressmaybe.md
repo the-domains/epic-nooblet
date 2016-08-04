@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-04T13:48:35.352Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa959c04-0a9b-40c4-9bc8-20de365f58fa.jpg
+datePublished: '2016-08-04T17:50:44.205Z'
 author: []
 via: {}
-dateModified: '2016-08-03T14:04:01.512Z'
+dateModified: '2016-08-04T17:50:43.797Z'
 title: Giving up WordPress...maybe?
 publisher: {}
 description: >-
@@ -13,11 +11,10 @@ description: >-
   worked out. However, recently my WordPress site is being excessively slow, and
   no matter what I do I’m unable to post to it from my phone app, which is what
   I wanted. 
-starred: false
 sourcePath: _posts/2016-08-04-giving-up-wordpressmaybe.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: giving-up-wordpressmaybe/index.html
 _type: MediaObject
 
 ---
