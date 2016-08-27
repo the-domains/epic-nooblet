@@ -5,18 +5,17 @@ description: >-
   subsequently did it again this time with an Alliance character. I really love
   how everything was setup, I love the collaboration of the Horde and Alliance
   (I mean finally!), but…
-dateModified: '2016-08-25T19:45:56.554Z'
-datePublished: '2016-08-25T19:47:05.400Z'
+dateModified: '2016-08-27T10:45:29.806Z'
+datePublished: '2016-08-27T10:45:30.184Z'
 title: 'World of Warcraft: Broken Shore Scenario'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-world-of-warcraft-broken-shore-scenario.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: world-of-warcraft-broken-shore-scenario/index.html
+_type: Blurb
 
 ---
 # World of Warcraft: Broken Shore Scenario
