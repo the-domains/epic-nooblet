@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nooblet's Random Thoughts]]></title>
+        <description><![CDATA[Nooblet's Random Thoughts]]></description>
+        <link>https://thegrid.ai/epic-nooblet/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Aug 2016 10:51:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/epic-nooblet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World of Warcraft: Broken Shore Scenario]]></title>
+            <description><![CDATA[<article><h1>World of Warcraft: Broken Shore Scenario</h1><p>So the invasions have started and the Broken Shore scenario has now been live for over a week. I first did it with one of my Horde characters, then I subsequently did it again this time with an Alliance character. I really love how everything was setup, I love the collaboration of the Horde and Alliance (I mean finally!), but…</p></article>]]></description>
+            <link>https://thegrid.ai/epic-nooblet/world-of-warcraft-broken-shore-scenario/index.html</link>
+            <guid isPermaLink="false">11c14316-23b3-445a-9ce9-7e3379f6df7e</guid>
+            <pubDate>Sat, 27 Aug 2016 10:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giving up WordPress...maybe?]]></title>
+            <description><![CDATA[<article><h1>Giving up WordPress...maybe?</h1><p>So I’m still debating whether to fully migrate my site to this experimental Grid site. Originally I didn’t want to because this still had some kinks to be worked out. However, recently my WordPress site is being excessively slow, and no matter what I do I’m unable to post to it from my phone app, which is what I wanted.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa959c04-0a9b-40c4-9bc8-20de365f58fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/epic-nooblet/giving-up-wordpressmaybe/index.html</link>
+            <guid isPermaLink="false">0c76fd85-514b-4d70-b5cb-32964b0a7a14</guid>
+            <pubDate>Thu, 25 Aug 2016 19:28:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
