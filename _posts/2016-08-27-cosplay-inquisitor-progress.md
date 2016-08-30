@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T18:13:31.954Z'
+datePublished: '2016-08-28T18:15:47.615Z'
 sourcePath: _posts/2016-08-27-cosplay-inquisitor-progress.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T18:13:31.504Z'
+dateModified: '2016-08-28T18:15:47.282Z'
 title: Cosplay - Inquisitor Progress
 publisher: {}
 description: >-
@@ -40,3 +40,5 @@ So, I mentioned something about progress didn't I? Well I have made more progres
 So I'll leave you with a preview of the pants so far and the beginnings of the vest pattern. My husband has also done me the favor or starting to work on my blades, though that is still in more experimental stages.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVVtzokgUft9f0cXUVCWVEC5qREysVURjEmOiojEvUw000BFo7G4E_PULOGayk6192YUq6POd5ly_09zYIXG2u5RwBJwQMnYr4Jhx6FMYiRFyMRSACzkUK9SnkbhHlGES3wptATBehOhWADZ0tj4laezq30ajURfYhLqI6vJpJVLo4pTpjSSvoFxkAXRJpstABkqSl0_q2_BMvqzvq9b55RFX5K9KpXXeBRGkPo71alMl5GKGXR7o1y2tAhLoujj2K_9HvNO5arRb30-imCF7i7nowNA5U2T5OxCBmuTnJ_0XXOjduHh_yvdkvvIl9MBn1d9LoVV3F4Q4RmKAsB_wKqRj7CInid6UP4fbkq9Kl-UOjnIuwhD7se6gmCN6CqyK6d9cpjQ8q7ql4wj6SEpiv2tDhq6bl3g1mM0z-WHsk355PS2swLT8cmVklcyM_rR6J-sdOVSLwdgdLC2z338cPxtSHgxeKnR0sLau0X9oz-5m2wqYWmZuzZ3D9PDsNTod71W5sKNWdNh0antDvLDmg9Xw_XH_9mqbbOob5qIlPWsS74zS-cqYR1a7cb8OD4T5i8nkzZob70SC7oX5cn8_aN7ttcGIX0yGyQsxciV7ny0GoyBQXxnLzckmbqThRLqePs2RKbetyfre3GuWOVsPF5r2uOm0t7tiGeL7hweebgY2TfvFKmhlszv8GiW4laGWZm5lVXMOWZG-uI8Pz2NlsLWbT_H0YoX6sXe3i5Vt82L8vLxOxy_OPlUDdbZKJ57kr61RUWiztZm4xdsCNuDK2CUrstof3t7U1TKO1czSdofV-3CI-KwjjxdFJ1o97ri_WRRqQ5nmdHM9Uf3x7p0uN_Kj5uVG7hkDO1hTttlUxe2b4Wi5XaQvkWGU3HQxS0JY6PXEdsFPQjWbxxGo50EGMOUEiEcwIQzzclZ1ikLI8R6VzCpJJ6pqpT0yqt5Z0lsqGXV6Jh_UckhIqP7N6Tia43aBR2IuejDCYaH3KYbhJYMxExmi2PupZfiAdKV2_5n2SvtXlKJNOCfRb6NQDy4pTxcvLA-GALsuin-NhlafA7WRfxiOGvr4FoUhThhmZYoB5khkCXSQHpOMwqRKFYKAIu9WCDhPmC5JWZZdfZx5Vw6JpEQa3L1tW6ntFziXhP-nHEe5slTGQiMY_oSyY4VO2Neq1dm5yCEU1t2MSYy6AuBl7RC_FX7YIYy3Qq8PkoCUzS-7zpEL7AKYCXbAEyF2iDg4-xOVYnyUzm8k2AMkBjccR-gjv__Y3_pPgSqLt4IqK9ei3BblxlJR9UZHV7ULWdZlWejdpyFoXIJqB4ActEotjMDzcHkjVd-WLEw--Pjr79T744Y5FCccQFbEDnCRhyhg1Dk2suxjORzcK6v4WzNR_MNaSCiykcuu3lnF9aOh3l-h71TJ" style=""></iframe>
+
+    <img src="https://www.instagram.com/p/BHZk5ubgyix/">
